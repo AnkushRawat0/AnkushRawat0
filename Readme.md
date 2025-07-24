@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://your-banner-url.com/banner.png" alt="ExploreX Banner" width="100%" />
+  <img src="https://chatgpt.com/s/m_68829f97d1d08191a181f813817149fd" alt="" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Ankush Rawat</h1>

@@ -1,23 +1,84 @@
-<h1 align="center">Hi 👋, I'm Ankush Rawat</h1>
-<h3 align="center">MERN Stack Developer | React Enthusiast | Open Source Learner</h3>
-
-- 🔭 I’m currently working on [ExploreX – Tour & Travel Website](https://explore-x-tour-travel-website-ludt.vercel.app/)
-- 🌱 I’m currently learning **DevOps, System Design & DSA**
-- 👯 I’m looking to collaborate on **Open Source & MERN projects**
-- 💬 Ask me about **React, Node, MongoDB, Tailwind**
-- 📫 Reach me at: **ankushrawat004@gmail.com**
-- ⚡ Fun fact: I debug more than I code 😄
-
-### 🛠️ Languages & Tools:
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-...
-
-### 📊 GitHub Stats:
+<!-- Header Banner -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnkushRawat0&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api?username=AnkushRawat0&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkushRawat0&layout=compact&theme=radical" />
+  <img src="https://your-banner-url.com/banner.png" alt="ExploreX Banner" width="100%" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Ankush Rawat</h1>
+<p align="center">
+  🚀 MERN Stack Developer | 💻 Backend Enthusiast | 💡 Exploring DevOps & DSA  
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🔭 I’m currently working on **ExploreX – Tour & Travel Website**
+- 🌱 I’m learning **DevOps**, **MERN Stack**, and **DSA in C++**
+- 💬 Ask me about **MongoDB, Express, React, Node.js**
+- 🛠️ I use tools like **Postman**, **Render**, **Vercel**
+- 📫 Reach me: ankushrawat004@gmail.com
+
+---
+
+### 🛠️ Languages & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=black&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=AnkushRawat0&show_icons=true&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AnkushRawat0&theme=tokyonight" height="180px"/>
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkushRawat0&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Tech Stack | Live |
+|--------|------------|------|
+| **ExploreX – Tour & Travel** | MERN Stack, Tailwind, Vercel | [explore-x-tour-travel-website-ludt.vercel.app](https://explore-x-tour-travel-website-ludt.vercel.app) |
+
+
+---
+
+### 💬 Let's Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/ankush-rawat---/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="mailto:ankushrawat004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</p>
+
+<p align="center">
+  Thanks for visiting! ⭐️
 </p>

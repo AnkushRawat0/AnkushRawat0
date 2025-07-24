@@ -58,6 +58,8 @@
 | Project | Tech Stack | Live |
 |--------|------------|------|
 | **ExploreX – Tour & Travel** | MERN Stack, Tailwind, Vercel | [explore-x-tour-travel-website-ludt.vercel.app](https://explore-x-tour-travel-website-ludt.vercel.app) |
+| **PokeAPI** | MERN Stack , Tailwind , Vercel | [Live Link] |
+
 
 
 ---

@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **ExploreX – Tour & Travel Website**
+- 🔭 I’m currently working on **GSSOC'25 Contriutions**
 - 🌱 I’m learning **DevOps**, **MERN Stack**, and **DSA in C++**
 - 💬 Ask me about **MongoDB, Express, React, Node.js**
 - 🛠️ I use tools like **Postman**, **Render**, **Vercel**

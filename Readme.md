@@ -1,7 +1,4 @@
-<!-- Header Banner -->
-<p align="center">
-  <img src="https://chatgpt.com/backend-api/public_content/enc/eyJpZCI6Im1fNjg4MjlmOTdkMWQwODE5MWExODFmODEzODE3MTQ5ZmQ6ZmlsZV8wMDAwMDAwMGVmZjQ2MWY1ODgzNzRjMWFlZTA1NmU3YiIsInRzIjoiNDg3MDUzIiwicCI6InB5aSIsInNpZyI6IjllMTJmYjJjNWVkZGRmYmQ3Zjg1OWZkMzJlMDMzZmEwNjlmMjg4NGE5MDg1NzJiNGYwYTE5NTdkZTdhYjkwYTYiLCJ2IjoiMCIsImdpem1vX2lkIjpudWxsfQ==" alt="" width="50%" />
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Ankush Rawat</h1>
 <p align="center">

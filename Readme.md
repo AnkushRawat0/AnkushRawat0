@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi 👋, I'm Ankush Rawat</h1>
 <p align="center">
   🚀 MERN Stack Developer | 💻 Backend Enthusiast | 💡 Exploring DevOps & DSA  
@@ -9,7 +7,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **GSSOC'25 Contriutions**
+- 🔭 I’m currently working on **GSSOC'25 Contributions**
 - 🌱 I’m learning **DevOps**, **MERN Stack**, and **DSA in C++**
 - 💬 Ask me about **MongoDB, Express, React, Node.js**
 - 🛠️ I use tools like **Postman**, **Render**, **Vercel**
@@ -20,6 +18,8 @@
 ### 🛠️ Languages & Tools
 
 <p>
+  <img src="https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" />
@@ -41,7 +41,7 @@
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=AnkushRawat0&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AnkushRawat0&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AnkushRawat0&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" height="180px"/>
 </p>
 
 <p>
@@ -56,8 +56,6 @@
 |--------|------------|------|
 | **ExploreX – Tour & Travel** | MERN Stack, Tailwind, Vercel | [explore-x-tour-travel-website-ludt.vercel.app](https://explore-x-tour-travel-website-ludt.vercel.app) |
 | **PokeAPI** | MERN Stack, Tailwind, Vercel | [poke-api-tau-six.vercel.app](https://poke-api-tau-six.vercel.app/) |
-
-
 
 ---
 

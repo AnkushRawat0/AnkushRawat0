@@ -8,10 +8,10 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working on **GSSOC'25 Contributions**
-- 🌱 I’m learning **DevOps**, **MERN Stack**, and **DSA in C++**
+- 🌱 Learning **DevOps**, **MERN Stack**, and **DSA in C++**
 - 💬 Ask me about **MongoDB, Express, React, Node.js**
-- 🛠️ I use tools like **Postman**, **Render**, **Vercel**
-- 📫 Reach me: ankushrawat004@gmail.com
+- 🛠️ Tools I use: **Postman**, **Render**, **Vercel**
+- 📫 Reach me: **ankushrawat004@gmail.com**
 
 ---
 
@@ -41,7 +41,7 @@
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=AnkushRawat0&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-streak-stats.demolab.com/?user=AnkushRawat0&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" height="180px"/>
+  <img src="https://streak-stats.demolab.com?user=AnkushRawat0&theme=tokyonight" height="180px"/>
 </p>
 
 <p>
@@ -53,7 +53,7 @@
 ### 🔥 GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github-contribution-graph.vercel.app/api/?username=AnkushRawat0&bg_color=1a1b27&color=38BDF8&line=3B82F6&point=22D3EE&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnkushRawat0&bg_color=1a1b27&color=38BDF8&line=3B82F6&point=22D3EE&area=true&hide_border=true" />
 </p>
 
 ---
@@ -62,8 +62,8 @@
 
 | Project | Tech Stack | Live |
 |--------|------------|------|
-| **ExploreX – Tour & Travel** | MERN Stack, Tailwind, Vercel | [explore-x-tour-travel-website-ludt.vercel.app](https://explore-x-tour-travel-website-ludt.vercel.app) |
-| **PokeAPI** | MERN Stack, Tailwind, Vercel | [poke-api-tau-six.vercel.app](https://poke-api-tau-six.vercel.app/) |
+| **ExploreX – Tour & Travel** | MERN Stack, Tailwind, Vercel | [Live Link](https://explore-x-tour-travel-website-ludt.vercel.app) |
+| **PokeAPI** | MERN Stack, Tailwind, Vercel | [Live Link](https://poke-api-tau-six.vercel.app/) |
 
 ---
 
@@ -85,5 +85,5 @@
 </p>
 
 <p align="center">
-  Thanks for visiting! ⭐️
+  ⭐ Thanks for visiting!
 </p>

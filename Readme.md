@@ -67,6 +67,15 @@
 
 ---
 
+### 🌍 Open Source Contributions
+
+| Project | Description | GitHub Link |
+|---------|-------------|-------------|
+| **ArdhNaariShakti - Taara Frontend** | Implemented **Job Section UI** and **Footer UI**, improving site navigation and visual appeal. | [View Repository](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend) |
+| **Trendhora** | Fixed **header overlap issue**, improved page alignment with the footer, and resolved backend connection issues. | [View Repository](https://github.com/agamjotsingh18/trendhora) |
+
+---
+
 ### 💬 Let's Connect
 
 <p>

@@ -76,6 +76,8 @@
 
 ---
 
+[![trophy](https://github-profile-trophy.vercel.app/?AnkushRawat0=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### 💬 Let's Connect
 
 <p>

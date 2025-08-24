@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ankush Rawat</h1>
 <p align="center">
-  🚀 MERN Stack Developer | 💻 Backend Enthusiast | 💡 Exploring DevOps & DSA  
+  🚀 MERN & Next.js Developer | 💻 Backend Enthusiast | 💡 Exploring DevOps & DSA  
 </p>
 
 ---
@@ -8,8 +8,8 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working on **GSSOC'25 Contributions**
-- 🌱 Learning **DevOps**, **MERN Stack**, and **DSA in C++**
-- 💬 Ask me about **MongoDB, Express, React, Node.js**
+- 🌱 Learning **DevOps**, **MERN Stack**, **Next.js**, **TypeScript**, **Redux**, and **DSA in C++**
+- 💬 Ask me about **MongoDB, Express, React, Node.js, Next.js, TypeScript**
 - 🛠️ Tools I use: **Postman**, **Render**, **Vercel**
 - 📫 Reach me: **ankushrawat004@gmail.com**
 
@@ -22,12 +22,15 @@
   <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat-square" />

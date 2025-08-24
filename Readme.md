@@ -8,7 +8,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working on **GSSOC'25 Contributions**
-- 🌱 Learning **DevOps**, **MERN Stack**, **Next.js**, **TypeScript**, **Redux**, and **DSA in C++**
+- 🌱 Learning  **MERN Stack**, **Next.js**, **TypeScript**, **Redux**.
 - 💬 Ask me about **MongoDB, Express, React, Node.js, Next.js, TypeScript**
 - 🛠️ Tools I use: **Postman**, **Render**, **Vercel**
 - 📫 Reach me: **ankushrawat004@gmail.com**

@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ankush Rawat</h1>
 <p align="center">
-  🚀 MERN & Next.js Developer | 💻 Backend Enthusiast | 💡 Exploring DevOps & DSA  
+  🚀 MERN & Next.js Developer | 💻 Backend Enthusiast 
 </p>
 
 ---
